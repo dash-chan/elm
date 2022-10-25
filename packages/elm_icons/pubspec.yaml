@@ -1,5 +1,5 @@
 name: elm_icons
-description: A new Flutter package project.
+description: an [Element UI Icons](https://element-plus.org/zh-CN/component/icon.html) implementation in `flutter`.
 version: 0.1.0
 homepage: https://github.com/goose-kit/elm
 

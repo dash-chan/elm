@@ -1,7 +1,9 @@
 name: elm_ui
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/goose-kit/elm
+# TODO remove this when need publish
+publish_to: none
 
 environment:
   sdk: '>=2.18.2 <3.0.0'
