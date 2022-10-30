@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/packages/elm_icon_gen_tool/melos_elm_icon_gen_tool.iml" filepath="$PROJECT_DIR$/packages/elm_icon_gen_tool/melos_elm_icon_gen_tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/elm_icons/melos_elm_icons.iml" filepath="$PROJECT_DIR$/packages/elm_icons/melos_elm_icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/elm_ui/melos_elm_ui.iml" filepath="$PROJECT_DIR$/packages/elm_ui/melos_elm_ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/elm_icons/example/melos_example.iml" filepath="$PROJECT_DIR$/packages/elm_icons/example/melos_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/website/melos_website.iml" filepath="$PROJECT_DIR$/apps/website/melos_website.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_elm.iml" filepath="$PROJECT_DIR$/melos_elm.iml" />
+    </modules>
+  </component>
+</project>
